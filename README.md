@@ -1,7 +1,15 @@
 # library
 Knihovna nasbíraných materiálů, které vypouštím do světa k užívání a používání
 
-## Matematika
+## Jiné
+
+### Materiály z kurzu hl. vedoucího
+
+- [materialy](https://github.com/petrkucerak/library/tree/main/asstes/kurz-hlavni-vedouci)
+
+## Škola
+
+### Matematika
 - [VYRAZY_MOCNINY_ODMOCNINY](https://github.com/petrkucerak/library/blob/main/asstes/mathicka/01_VYRAZY_MOCNINY_ODMOCNINY.pdf)
 - [SLOVNI_ULOHY](https://github.com/petrkucerak/library/blob/main/asstes/mathicka/02_SLOVNI_ULOHY.pdf)
 - [FCE_POLYNOMICKE_A_RACIONALNI](https://github.com/petrkucerak/library/blob/main/asstes/mathicka/03_FCE_POLYNOMICKE_A_RACIONALNI.pdf)
