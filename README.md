@@ -26,3 +26,6 @@ Knihovna nasbíraných materiálů, které vypouštím do světa k užívání a
 - [RADY](https://github.com/petrkucerak/library/blob/main/asstes/mathicka/17_RADY.pdf)
 - [POSLOUPNOSTI](https://github.com/petrkucerak/library/blob/main/asstes/mathicka/18_POSLOUPNOSTI.pdf)
 - [ZAKLADY_PRAVDEPODOBNOSTI_A_STATISTIKY](https://github.com/petrkucerak/library/blob/main/asstes/mathicka/19_ZAKLADY_PRAVDEPODOBNOSTI_A_STATISTIKY.pdf)
+
+### CVUT
+- [ALG - oprakovani k testu](https://github.com/petrkucerak/library/tree/main/asstes/ALG)
