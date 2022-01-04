@@ -28,4 +28,4 @@ Knihovna nasbíraných materiálů, které vypouštím do světa k užívání a
 - [ZAKLADY_PRAVDEPODOBNOSTI_A_STATISTIKY](https://github.com/petrkucerak/library/blob/main/asstes/mathicka/19_ZAKLADY_PRAVDEPODOBNOSTI_A_STATISTIKY.pdf)
 
 ### CVUT
-- [ALG - oprakovani k testu](https://github.com/petrkucerak/library/tree/main/asstes/ALG)
+- [Alogoritmizace (ALG) - opakovani k testu](https://github.com/petrkucerak/library/tree/main/asstes/ALG)
